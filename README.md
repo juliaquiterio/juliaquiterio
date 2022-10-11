@@ -3,7 +3,7 @@
 - 🌱 Eu estou aprendendo linguagem SQL e diversos temas em Banco de Dados e Inglês.
 - 💞️ Sou estagiária em Dados BI 
 - 📫 Para chegar até mim:
-Email: juliapquiterio@gmail.com
+Email: juliapquiterio@gmail.com <br>
 Celular: 12 99776-8258
 
 <!---
