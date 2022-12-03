@@ -22,15 +22,14 @@ juliaquiterio/juliaquiterio ✨ visite meu repositório✨, há diversos código
   <img align="center" alt="Julia-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Julia-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Julia-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-   <img align="right" alt="Julia-pic" height="150" style="[border-radius:50px;" src="![download20221206003156](https://user-images.githubusercontent.com/83841092/205421439-daa5340b-f121-437f-bf66-d141e619b804.png)">
   
 </div><br>
   
+
+
+
 <div>
   
-  
- 
-
   <a href = "mailto:juliapquiterio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/j%C3%BAlia-quit%C3%A9rio-934894205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/j%C3%BAlia-quit%C3%A9rio-934894205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
