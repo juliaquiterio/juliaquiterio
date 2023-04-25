@@ -1,9 +1,8 @@
 - 👋 Olá bem vindo! Sou @juliaquiterio
 - 👀 Tecnologia, Dados e coisas afins...
 - 🌱 Eu estou aprendendo diversos temas em Banco de Dados e Inglês.
-- 💞️ Sou estagiária em Dados BI 
-- 📫 Para chegar até mim:<br>
--    Celular: (12) 99776-8258
+- 💞️ Estagiária em Dados BI 
+- 📫 juliapquiterio@gmail.com
 
 <!---
 juliaquiterio/juliaquiterio ✨ visite meu repositório✨, há diversos códigos em linguagens de programação.
