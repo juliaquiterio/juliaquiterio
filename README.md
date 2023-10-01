@@ -1,7 +1,4 @@
 - 👋 Olá bem vindo! Sou @juliaquiterio
-- 👀 Tecnologia, Dados e coisas afins...
-- 🌱 Eu estou aprendendo diversos temas em Banco de Dados e Inglês.
-- 💞️ Estagiária em Dados BI 
 - 📫 juliapquiterio@gmail.com
 
 <!---
